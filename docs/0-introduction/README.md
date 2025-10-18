@@ -25,7 +25,7 @@ flowchart TD
     A --> D[Simplified Setup]
     A --> E[Enhanced Performance]
 
-    B --> B1[@theme directive]
+    B --> B1["@theme directive"]
     B --> B2[CSS Variables]
     B --> B3[No JS config files]
 
@@ -263,4 +263,3 @@ Ready to dive deeper? Here's your recommended learning path:
 ---
 
 **Ready to get started?** 👉 **[Setup & Installation Guide](../1-setup/README.md)**
-

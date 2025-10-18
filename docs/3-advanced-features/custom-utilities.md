@@ -10,7 +10,7 @@ The `@utility` directive in Tailwind CSS v4+ allows you to create custom utility
 
 ```mermaid
 flowchart TD
-    A[Custom Utilities] --> B[@utility Directive]
+    A[Custom Utilities] --> B["@utility Directive"]
     A --> C[Variant Support]
     A --> D[Best Practices]
     A --> E[Use Cases]
@@ -698,4 +698,3 @@ Now that you understand custom utilities:
 ---
 
 **Ready to create custom variants?** 👉 **[Custom Variants Guide](./custom-variants.md)**
-

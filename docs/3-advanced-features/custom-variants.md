@@ -10,7 +10,7 @@ The `@custom-variant` directive in Tailwind CSS v4+ allows you to create custom 
 
 ```mermaid
 flowchart TD
-    A[Custom Variants] --> B[@custom-variant Directive]
+    A[Custom Variants] --> B["@custom-variant Directive"]
     A --> C[Theme Variants]
     A --> D[Media Query Variants]
     A --> E[State Variants]
@@ -673,4 +673,3 @@ Now that you understand custom variants:
 ---
 
 **Ready to explore plugins?** 👉 **[Plugins Guide](./plugins.md)**
-

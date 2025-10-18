@@ -14,12 +14,12 @@ flowchart TD
     A --> C[v4: CSS-First Config]
 
     B --> B1[tailwind.config.js]
-    B --> B2[@tailwind directives]
+    B --> B2["@tailwind directives"]
     B --> B3[Manual content paths]
     B --> B4[PostCSS plugin only]
 
-    C --> C1[@theme directive]
-    C --> C2[@import "tailwindcss"]
+    C --> C1["@theme directive"]
+    C --> C2["@import \"tailwindcss\""]
     C --> C3[Automatic detection]
     C --> C4[Framework-specific plugins]
 
@@ -394,4 +394,3 @@ Ready to migrate? Here's your path forward:
 ---
 
 **Ready to upgrade?** 👉 **[Start with Migration Guide](../6-migration/README.md)**
-

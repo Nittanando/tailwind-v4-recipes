@@ -24,15 +24,15 @@ flowchart TD
     A --> D[Plugins]
     A --> E[Performance]
 
-    B --> B1[@utility directive]
+    B --> B1["@utility directive"]
     B --> B2[Reusable patterns]
     B --> B3[Variant support]
 
-    C --> C1[@custom-variant directive]
+    C --> C1["@custom-variant directive"]
     C --> C2[Conditional styles]
     C --> C3[Theme variants]
 
-    D --> D1[@plugin directive]
+    D --> D1["@plugin directive"]
     D --> D2[Third-party plugins]
     D --> D3[Custom plugins]
 
@@ -272,15 +272,15 @@ flowchart TD
     D --> E[Performance]
     E --> F[Production Ready]
 
-    B --> B1[Learn @utility directive]
+    B --> B1["Learn @utility directive"]
     B --> B2[Create reusable patterns]
     B --> B3[Test with variants]
 
-    C --> C1[Learn @custom-variant directive]
+    C --> C1["Learn @custom-variant directive"]
     C --> C2[Create conditional styles]
     C --> C3[Test with themes]
 
-    D --> D1[Learn @plugin directive]
+    D --> D1["Learn @plugin directive"]
     D --> D2[Add third-party plugins]
     D --> D3[Create custom plugins]
 
@@ -420,4 +420,3 @@ Ready to dive deeper into advanced features:
 ---
 
 **Ready to create custom utilities?** 👉 **[Custom Utilities Guide](./custom-utilities.md)**
-

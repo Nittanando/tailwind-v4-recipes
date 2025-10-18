@@ -10,7 +10,7 @@ Tailwind CSS v4+ introduces a **CSS-first configuration approach** that eliminat
 
 ```mermaid
 flowchart TD
-    A[CSS-First Configuration] --> B[@theme Directive]
+    A[CSS-First Configuration] --> B["@theme Directive"]
     A --> C[CSS Variables]
     A --> D[No JavaScript Config]
 
@@ -465,4 +465,3 @@ Now that you understand CSS-first configuration:
 ---
 
 **Ready to explore the theme system?** 👉 **[Theme System Guide](./theme-system.md)**
-

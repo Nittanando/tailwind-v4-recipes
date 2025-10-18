@@ -10,7 +10,7 @@ The `@plugin` directive in Tailwind CSS v4+ allows you to load plugins directly 
 
 ```mermaid
 flowchart TD
-    A[Plugins] --> B[@plugin Directive]
+    A[Plugins] --> B["@plugin Directive"]
     A --> C[Official Plugins]
     A --> D[Third-party Plugins]
     A --> E[Custom Plugins]
@@ -644,4 +644,3 @@ Now that you understand plugins:
 ---
 
 **Ready to optimize performance?** 👉 **[Performance Guide](./performance.md)**
-

@@ -24,7 +24,7 @@ flowchart TD
     A --> D[Utility Classes]
     A --> E[Responsive Design]
 
-    B --> B1[@theme directive]
+    B --> B1["@theme directive"]
     B --> B2[CSS Variables]
     B --> B3[No JS config]
 
@@ -485,4 +485,3 @@ Now that you understand the core concepts:
 ---
 
 **Ready to dive deeper?** 👉 **[CSS-First Configuration Guide](./css-first-config.md)**
-
